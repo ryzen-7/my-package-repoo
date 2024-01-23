@@ -1,0 +1,13 @@
+{
+    "name": "dompdf/utils",
+    "description": "Pakage has been takenOver",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ryzen"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
